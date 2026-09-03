@@ -50,7 +50,9 @@ As the sole developer of this project, I owned the entire development cycle, inc
 
 ---
 
-## 🖼️ Project Evidence & Files
-* **Core Agent Script:** [`main.py`](./main.py) — Runs a sample customer query through the system.
+## 🖼️ Project Evidence & Visualizations 
 * **System Environment Setup:** See [`Project README`](./README) for required configuration.
 Creating a modular Python codebase so the agent can be easily adapted for future applications (such as automated scientific database queries).
+* **Visualizations:** 
+  ![Resolution Time Trends](Agent_Terminal_Response.png)
+  
