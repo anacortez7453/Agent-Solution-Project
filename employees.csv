@@ -1,0 +1,21 @@
+employee_id,department,job_title,employment_type,start_date,pto_balance_days,status
+E-2001,Engineering,Software Engineer,full_time,2023-03-14,12.5,active
+E-2002,Engineering,Senior Software Engineer,full_time,2021-07-01,18.0,active
+E-2003,Sales,Account Executive,full_time,2024-01-08,9.0,active
+E-2004,Sales,Sales Development Rep,full_time,2025-05-19,4.5,active
+E-2005,Marketing,Content Strategist,full_time,2022-11-02,15.0,active
+E-2006,Marketing,Marketing Coordinator,part_time,2024-09-15,6.0,active
+E-2007,Engineering,QA Engineer,full_time,2023-08-21,11.0,leave_of_absence
+E-2008,Customer Support,Support Specialist,full_time,2024-02-12,8.0,active
+E-2009,Customer Support,Support Team Lead,full_time,2020-06-01,20.0,active
+E-2010,HR,HR Generalist,full_time,2022-04-18,14.0,active
+E-2011,Finance,Financial Analyst,full_time,2023-01-09,10.5,active
+E-2012,Engineering,DevOps Engineer,full_time,2024-06-03,7.5,active
+E-2013,Sales,Account Executive,full_time,2021-10-11,17.0,active
+E-2014,Product,Product Manager,full_time,2022-09-26,16.0,active
+E-2015,Engineering,Software Engineer,contract,2025-02-17,0.0,active
+E-2016,Marketing,Marketing Coordinator,full_time,2023-05-30,13.0,terminated
+E-2017,Customer Support,Support Specialist,full_time,2025-03-24,3.5,active
+E-2018,Finance,Accounts Payable Specialist,part_time,2024-11-04,5.0,active
+E-2019,Product,UX Researcher,full_time,2022-02-14,15.5,active
+E-2020,Engineering,Engineering Manager,full_time,2019-12-02,22.0,active

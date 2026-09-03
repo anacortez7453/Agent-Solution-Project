@@ -1,0 +1,41 @@
+RETURN & SHIPPING POLICY -- FICTIONAL DEMO STORE
+
+RETURNS
+Items may be returned within 30 days of the delivery date for a full
+refund, provided the item is unused and in its original packaging.
+Opened electronics (earbuds, chargers, speakers) can only be returned if
+they are defective -- once the seal on the box is broken for a
+non-defective reason, the item is final sale.
+
+To start a return, the order must have a status of "delivered." Orders
+still marked "processing," "shipped," or "delayed" are not yet eligible
+for return since they haven't arrived yet.
+
+REFUNDS
+Refunds are issued to the original payment method within 5-7 business
+days after the returned item is received and inspected. Shipping fees
+are non-refundable unless the return is due to a defective or incorrect
+item.
+
+CANCELLATIONS
+Orders can be cancelled free of charge any time before they ship. Once an
+order's status changes to "shipped," it can no longer be cancelled -- the
+customer must wait for delivery and then initiate a return instead.
+
+SHIPPING DELAYS
+Orders marked "delayed" are experiencing a shipping carrier delay beyond
+the store's control. Customers should be told the expected delivery
+window is an additional 3-5 business days, and offered a $10 store credit
+as an apology for any delay longer than 5 business days past the original
+estimate.
+
+DAMAGED OR MISSING ITEMS
+If a customer reports an item arrived damaged or a package never arrived
+despite showing "delivered," a replacement should be shipped immediately
+at no cost, without requiring the customer to return the original item
+first.
+
+WARRANTY
+All electronics carry a 1-year manufacturer warranty covering defects in
+materials or workmanship. The warranty does not cover accidental damage,
+water damage, or normal wear and tear.

@@ -1,0 +1,48 @@
+EMPLOYEE HANDBOOK EXCERPTS -- FICTIONAL DEMO COMPANY
+
+PAID TIME OFF (PTO)
+Full-time employees accrue 15 PTO days per year, credited monthly at a
+rate of 1.25 days/month. Part-time employees accrue PTO on a prorated
+basis according to their scheduled hours. Contractors are not eligible
+for PTO through this program. PTO requests should be submitted at least
+5 business days in advance and require manager approval. Unused PTO
+carries over up to a maximum of 5 days into the next calendar year;
+anything beyond that is forfeited.
+
+REMOTE WORK STIPEND
+Employees who work remotely at least 3 days per week are eligible for a
+$50/month home internet stipend, submitted through the expense portal by
+the 5th of each month. This stipend is not available to contractors.
+
+LEAVE OF ABSENCE
+Employees on an approved leave of absence continue to accrue PTO at a
+reduced rate (50%) during the first 90 days of leave, and do not accrue
+further PTO after that point until they return to active status.
+Employees returning from leave should contact HR to reactivate their
+PTO accrual.
+
+PARENTAL LEAVE
+Parental leave is 12 weeks paid for the primary caregiver and 4 weeks
+paid for the secondary caregiver, available to full-time employees after
+90 days of employment. Part-time employees are eligible for a prorated
+version based on their average weekly hours.
+
+EQUIPMENT REFRESH
+The standard laptop refresh cycle is every 3 years for full-time
+employees. Employees can request an early refresh through IT if their
+device is malfunctioning, but early refresh requests for reasons other
+than malfunction require manager sign-off.
+
+ONBOARDING
+New full-time and part-time hires complete a 2-week onboarding program
+covering company tools, security training, and a benefits overview
+session with HR. Contractors complete an abbreviated 2-day onboarding
+covering tools and security only.
+
+OFFBOARDING / TERMINATION
+Employees marked as "terminated" in the HR system retain access to
+company systems for a 24-hour grace period to complete offboarding tasks,
+after which all system access is revoked. Any unused PTO balance for
+full-time or part-time employees is paid out in the final paycheck,
+subject to state law; contractors do not receive PTO payout since they do
+not accrue PTO.

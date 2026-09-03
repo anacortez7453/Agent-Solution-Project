@@ -1,0 +1,21 @@
+product_id,name,category,quantity_on_hand,reorder_threshold,standard_reorder_qty,unit_cost,vendor
+SK-100,Stainless Steel Water Bottle 24oz,Drinkware,54,25,40,6.75,BrightPack Goods
+SK-101,Canvas Tote Bag,Bags,18,20,30,3.20,ThreadLine Textiles
+SK-102,Bamboo Cutting Board,Kitchen,7,10,20,9.40,GreenGrain Supply
+SK-103,Ceramic Coffee Mug,Drinkware,63,30,50,2.90,BrightPack Goods
+SK-104,Cotton Tote Bag (Small),Bags,41,20,30,2.10,ThreadLine Textiles
+SK-105,Silicone Baking Mat,Kitchen,5,8,15,4.60,GreenGrain Supply
+SK-106,Insulated Travel Mug,Drinkware,9,15,25,8.20,BrightPack Goods
+SK-107,Recycled Notebook (A5),Stationery,72,30,50,1.85,PaperCycle Co.
+SK-108,Gel Pen 4-Pack,Stationery,13,20,40,3.50,PaperCycle Co.
+SK-109,Wool Beanie,Apparel,22,15,25,7.00,ThreadLine Textiles
+SK-110,Bamboo Utensil Set,Kitchen,31,15,25,5.30,GreenGrain Supply
+SK-111,Enamel Camping Cup,Drinkware,4,10,20,4.10,BrightPack Goods
+SK-112,Sticky Note Cube,Stationery,58,25,40,2.25,PaperCycle Co.
+SK-113,Cotton Zip Pouch,Bags,16,15,25,3.75,ThreadLine Textiles
+SK-114,Reusable Produce Bags (Set of 5),Kitchen,11,12,20,4.90,GreenGrain Supply
+SK-115,Denim Tote Bag,Bags,3,10,20,6.10,ThreadLine Textiles
+SK-116,Wireless Mouse Pad,Stationery,27,20,30,3.00,PaperCycle Co.
+SK-117,Wool Scarf,Apparel,8,10,15,11.50,ThreadLine Textiles
+SK-118,Glass Storage Jar Set,Kitchen,45,20,35,7.85,GreenGrain Supply
+SK-119,Recycled Pencil Set,Stationery,2,15,30,2.40,PaperCycle Co.

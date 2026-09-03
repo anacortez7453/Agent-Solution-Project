@@ -1,0 +1,21 @@
+order_id,customer_first_name,product,order_date,status,tracking_number,total_amount
+ORD-1001,Maya,Wireless Earbuds Pro,2026-06-02,delivered,1Z9F2A100123456,79.99
+ORD-1002,Jordan,USB-C Charging Cable (6ft),2026-06-03,shipped,1Z9F2A100234567,12.99
+ORD-1003,Priya,Smart Home Hub,2026-06-04,processing,,149.99
+ORD-1004,Diego,Bluetooth Speaker Mini,2026-06-05,delivered,1Z9F2A100345678,45.50
+ORD-1005,Aisha,Wireless Earbuds Pro,2026-06-06,delayed,1Z9F2A100456789,79.99
+ORD-1006,Sam,Laptop Stand (Aluminum),2026-06-06,delivered,1Z9F2A100567890,34.99
+ORD-1007,Wei,Smart Home Hub,2026-06-07,cancelled,,149.99
+ORD-1008,Fatima,Portable Charger 20000mAh,2026-06-08,shipped,1Z9F2A100678901,29.99
+ORD-1009,Liam,USB-C Charging Cable (6ft),2026-06-08,delivered,1Z9F2A100789012,12.99
+ORD-1010,Noor,Bluetooth Speaker Mini,2026-06-09,returned,1Z9F2A100890123,45.50
+ORD-1011,Ethan,Wireless Earbuds Pro,2026-06-10,delivered,1Z9F2A100901234,79.99
+ORD-1012,Yuki,Laptop Stand (Aluminum),2026-06-11,processing,,34.99
+ORD-1013,Carlos,Portable Charger 20000mAh,2026-06-11,delayed,1Z9F2A101012345,29.99
+ORD-1014,Zainab,Smart Home Hub,2026-06-12,delivered,1Z9F2A101123456,149.99
+ORD-1015,Owen,USB-C Charging Cable (6ft),2026-06-13,shipped,1Z9F2A101234567,12.99
+ORD-1016,Ravi,Wireless Earbuds Pro,2026-06-13,delivered,1Z9F2A101345678,79.99
+ORD-1017,Elena,Bluetooth Speaker Mini,2026-06-14,cancelled,,45.50
+ORD-1018,Malik,Portable Charger 20000mAh,2026-06-15,delivered,1Z9F2A101456789,29.99
+ORD-1019,Hana,Laptop Stand (Aluminum),2026-06-15,returned,1Z9F2A101567890,34.99
+ORD-1020,Tariq,Smart Home Hub,2026-06-16,shipped,1Z9F2A101678901,149.99

@@ -1,0 +1,26 @@
+PROJECT OVERVIEW
+The Inventory Assistant, an agent that is designed to check stock levels, identify low-inventory items, and calculate reorder amounts using the data source provided.
+
+ENVIRONMENT SETUP
+Before starting, make sure you are in the correct folder that contains the product.csv, its important this file is in the same directory as the script. Also, make a file called .env which will contain your API key. You can write it out as:
+DEEPSEEK_API_KEY=.....
+(IMPORTANT: DON"T SHARE THIS KEY WITH ANYONE)
+Then, setup a virtual environment by typing the following in the terminal box:
+python3 -m venv .venv 
+(click enter)
+source .venv/bin/activate
+(click enter)
+Then the following line should start with: (.venv)
+
+
+PREREQUISITES AND INSTALLATION
+Libraries needed to be installed: langchain, langchain-deepseek, pandas, python-dotenv
+In the terminal, type the following to install:
+pip install langchain langchain-deepseek pandas python-dotenv
+
+HOW TO RUN THE AGENT
+To run the agent, in the terminal type the following: 
+python3 inventory_assistant.py
+
+FEATURES TO NOTE
+The agent will use tools to get product info and list items that are low in stock. When the code is ran, it will mention that the agent is thinking and follow with Agent Execution Log. The log will show what tools were called and the data returned. At the end, there will be the high risk action checkpoint which is the protected human in the loop checkpoint. The terminal will pause and will ask for a y or n response to continue and finalize the input. It will then state the final reponse and what it has done successfully thorugh the approval action.
