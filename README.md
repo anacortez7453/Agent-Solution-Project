@@ -43,10 +43,10 @@ As the sole developer of this project, I owned the entire development cycle, inc
 
 ---
 
-## 📈 Key Results & Outcomes
-* **Zero Latency Triage:** Automated email classification, routing tickets to the correct department instantly upon arrival.
-* **Consistent Quality:** Ensured all automated draft responses strictly adhere to company guidelines and maintain a professional, helpful tone.
-* **API Security:** Successfully built a production-grade secure application setup using a standard local configuration pattern.
+## 📈 Key Results & Outcomes (Course project, built using simulated support data)
+* **Automated Triage:** Built classification logic that sorts incoming support emails by intent and routes them to the correct category (Billing, Technical Support, Returns, Feedback) without manual review.
+* **Consistent Output Quality:** Designed prompt constraints so automated draft responses stay on-template and maintain a professional, helpful tone across varied inputs.
+Secure Configuration: Set up a local application pattern using environment variables and .gitignore to keep API keys out of the public repository.
 
 ---
 
