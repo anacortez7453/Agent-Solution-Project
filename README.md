@@ -72,13 +72,12 @@ The agent follows a simple loop: the model reads the request, optionally calls a
 ---
 
 ## 👥 My Individual Contribution
-- **Project Type:** *[Individual project / course assignment: edit to match]*
-- **My Role:** *[Edit to reflect what you did.]* For example:
+- **Project Type:** Individual project / course assignment
+- **My Role:** 
   - Wrote the three tools and their docstrings so the model knows when to use each.
   - Added the human approval gate to the ordering tool.
   - Configured the DeepSeek model and system prompt.
   - Built the execution log that shows tool calls, results, and the final response.
-- **AI Assistance:** *[If an AI tool helped, say what it was used for.]*
 * **Visualizations:** 
   ![Resolution Time Trends](Agent_Terminal_Response.png)
   
